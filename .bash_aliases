@@ -1,0 +1,10 @@
+alias adog='git log --all --decorate --oneline --graph'
+alias status="git status"
+alias commit="git commit"
+alias add="git add"
+alias push="git push"
+alias update='sudo apt-get update'
+alias upgrade='sudo apt-get upgrade'
+alias llup='apt list --upgradable'
+alias ps2='$HOME/Downloads/pcsx2-v1.7.5449-linux-appimage-x64-Qt.AppImage'
+alias c="clear -x"
