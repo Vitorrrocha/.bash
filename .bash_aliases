@@ -8,3 +8,4 @@ alias upgrade='sudo apt-get upgrade'
 alias llup='apt list --upgradable'
 alias ps2='$HOME/Downloads/pcsx2-v1.7.5449-linux-appimage-x64-Qt.AppImage'
 alias c="clear -x"
+alias install="sudo apt-get install"
